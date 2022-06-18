@@ -1,7 +1,7 @@
-description: Empty TrueGRF project
+description: Contains system generated and real town names
 grfid: f23a75b3
 license: CC0-1.0
-name: TrueGRF
+name: Indonesian Town Names (Fictional)
 type: townname
 url: https://github.com/Airbuzman/idntowna.e
 version: 6
