@@ -57,14 +57,14 @@ subsets:
 - name: aan
   parts:
   - names:
-    - name: ' aan '
+    - name: Sura
       probability: 1
   - names:
-    - name: '@den'
+    - name: '@baya'
       probability: 3
-    - name: Zee
+    - name: Timur
       probability: 1
-    - name: de Lek
+    - name: baya
       probability: 1
 - name: prefix
   parts:
